@@ -1,8 +1,0 @@
-Order_ID,Order_Date,Customer_ID,Product_Category,Product_Name,Quantity,Price_per_Unit,Discount,City,Payment_Method
-101,01-07-2025,1001,Electronics,Smartphone,1,15000,0.1,Chennai,UPI
-102,02-07-2025,1002,Clothing,T-Shirt,2,500,0.05,Mumbai,Credit Card
-103,03-07-2025,1003,Groceries,Rice Bag,5,600,0,Delhi,Cash
-104,03-07-2025,1001,Electronics,Bluetooth Speaker,1,2500,0.15,Chennai,UPI
-105,04-07-2025,1004,Books,Novel,3,300,0.1,Bangalore,Net Banking
-106,04-07-2025,1005,Electronics,Laptop,1,40000,0.2,Salem,Cash
-107,05-07-2025,1006,Groceries,Sugar,1,100,0,Noida,UPI
